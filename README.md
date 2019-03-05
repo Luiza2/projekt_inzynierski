@@ -1,1 +1,1 @@
-# projekt_inzynierski
+Prędkościomierz z GPS i układem akwizycji danych.
