@@ -7,5 +7,4 @@ Wykorzystane elementy:
 - moduł GPS NEO-7M-C (B) 
 - moduł czytnika kart microSD
 - moduł bluetooth HC-05
-
--[ ]
+- własna płytka PCB (w opracowaniu)
