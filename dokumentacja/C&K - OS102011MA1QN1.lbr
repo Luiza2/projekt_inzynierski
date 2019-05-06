@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE eagle SYSTEM "eagle.dtd">
+<eagle>
+    <drawing>
+        <grid unitdist="mm" unit="mm"/>
+        <layers>
+            <layer name="Top" color="4" number="1" visible="yes" active="yes" fill="1"/>
+            <layer name="Bottom" color="4" number="16" visible="yes" active="yes" fill="1"/>
+            <layer name="tPlace" color="7" number="21" visible="yes" active="yes" fill="1"/>
+            <layer name="bPlace" color="7" number="22" visible="yes" active="yes" fill="1"/>
+            <layer name="tNames" color="7" number="25" visible="yes" active="yes" fill="1"/>
+            <layer name="bNames" color="7" number="26" visible="yes" active="yes" fill="1"/>
+            <layer name="tValues" color="7" number="27" visible="yes" active="yes" fill="1"/>
+            <layer name="bValues" color="7" number="28" visible="yes" active="yes" fill="1"/>
+            <layer name="tStop" color="7" number="29" visible="yes" active="yes" fill="1"/>
+            <layer name="bStop" color="7" number="30" visible="yes" active="yes" fill="1"/>
+            <layer name="tCream" color="7" number="31" visible="yes" active="yes" fill="1"/>
+            <layer name="bCream" color="7" number="32" visible="yes" active="yes" fill="1"/>
+            <layer name="tKeepout" color="4" number="39" visible="yes" active="yes" fill="1"/>
+            <layer name="bKeepout" color="4" number="40" visible="yes" active="yes" fill="1"/>
+            <layer name="tRestrict" color="0" number="41" visible="yes" active="yes" fill="1"/>
+            <layer name="bRestrict" color="0" number="42" visible="yes" active="yes" fill="1"/>
+            <layer name="tDocu" color="7" number="51" visible="yes" active="yes" fill="1"/>
+            <layer name="bDocu" color="7" number="52" visible="yes" active="yes" fill="1"/>
+            <layer name="Nets" color="2" number="91" visible="yes" active="yes" fill="1"/>
+            <layer name="Busses" color="1" number="92" visible="yes" active="yes" fill="1"/>
+            <layer name="Pins" color="2" number="93" visible="yes" active="yes" fill="1"/>
+            <layer name="Symbols" color="4" number="94" visible="yes" active="yes" fill="1"/>
+            <layer name="Names" color="7" number="95" visible="yes" active="yes" fill="1"/>
+            <layer name="Values" color="7" number="96" visible="yes" active="yes" fill="1"/>
+            <layer name="Info" color="7" number="97" visible="yes" active="yes" fill="1"/>
+            <layer name="Guide" color="6" number="98" visible="yes" active="yes" fill="1"/>
+        </layers>
+        <library name="Upverter Library">
+            <description>Upverter Parts Library
+
+Created by Upverter.com</description>
+            <packages>
+                <package name="C&amp;K_OS102011MA1QN1_0">
+                    <description>OS Series Miniature Slide Switches</description>
+                    <wire layer="51" y2="4.2" width="0.15" x2="-4.3" y1="-4.2" x1="-4.3"/>
+                    <wire layer="51" y2="4.2" width="0.15" x2="4.3" y1="4.2" x1="-4.3"/>
+                    <wire layer="51" y2="-4.2" width="0.15" x2="4.3" y1="4.2" x1="4.3"/>
+                    <wire layer="51" y2="-4.2" width="0.15" x2="-4.3" y1="-4.2" x1="4.3"/>
+                    <wire layer="39" y2="4.3" width="0.1" x2="-5.35" y1="-4.3" x1="-5.35"/>
+                    <wire layer="39" y2="4.3" width="0.1" x2="5.35" y1="4.3" x1="-5.35"/>
+                    <wire layer="39" y2="-4.3" width="0.1" x2="5.35" y1="4.3" x1="5.35"/>
+                    <wire layer="39" y2="-4.3" width="0.1" x2="-5.35" y1="-4.3" x1="5.35"/>
+                    <wire layer="21" y2="4.2" width="0.15" x2="-4.3" y1="4.2" x1="4.3"/>
+                    <wire layer="21" y2="-0.2" width="0.15" x2="4.3" y1="-0.2" x1="-4.3"/>
+                    <text layer="25" align="bottom-left" y="4.675" x="-5.325" rot="R0" size="1.0">&gt;NAME</text>
+                    <circle y="4.775" x="-2.1" layer="21" radius="0.25" width="0.0"/>
+                    <pad diameter="2.3" name="4" shape="round" drill="1.5" y="2.0" x="-4.1" rot="R0"/>
+                    <pad diameter="2.3" name="5" shape="round" drill="1.5" y="2.0" x="4.1" rot="R0"/>
+                    <pad diameter="1.3" name="1" shape="square" drill="0.8" y="2.0" x="-2.0" rot="R0"/>
+                    <pad diameter="1.3" name="2" shape="round" drill="0.8" y="2.0" x="0.0" rot="R0"/>
+                    <pad diameter="1.3" name="3" shape="round" drill="0.8" y="2.0" x="2.0" rot="R0"/>
+                </package>
+            </packages>
+            <symbols>
+                <symbol name="C&amp;K_OS102011MA1QN1_0_0">
+                    <description>OS Series Miniature Slide Switches</description>
+                    <wire layer="94" y2="-5.08" width="0.254" x2="2.54" y1="-20.32" x1="2.54"/>
+                    <wire layer="94" y2="-5.08" width="0.254" x2="15.24" y1="-5.08" x1="2.54"/>
+                    <wire layer="94" y2="-20.32" width="0.254" x2="15.24" y1="-5.08" x1="15.24"/>
+                    <wire layer="94" y2="-20.32" width="0.254" x2="2.54" y1="-20.32" x1="15.24"/>
+                    <wire layer="94" y2="-7.62" width="0.15" x2="15.24" y1="-7.62" x1="15.24"/>
+                    <wire layer="94" y2="-10.16" width="0.15" x2="15.24" y1="-10.16" x1="15.24"/>
+                    <wire layer="94" y2="-12.7" width="0.15" x2="15.24" y1="-12.7" x1="15.24"/>
+                    <wire layer="94" y2="-15.24" width="0.15" x2="15.24" y1="-15.24" x1="15.24"/>
+                    <wire layer="94" y2="-17.78" width="0.15" x2="15.24" y1="-17.78" x1="15.24"/>
+                    <text layer="95" align="top-left" y="-2.54" x="2.54" rot="R0" size="2.54">&gt;NAME</text>
+                    <text layer="95" align="top-left" y="-25.4" x="2.54" rot="R0" size="2.54">OS102011MA1QN1</text>
+                    <pin direction="pas" name="1" visible="both" length="middle" y="-7.62" x="20.32" rot="R180"/>
+                    <pin direction="pas" name="2" visible="both" length="middle" y="-10.16" x="20.32" rot="R180"/>
+                    <pin direction="pas" name="3" visible="both" length="middle" y="-12.7" x="20.32" rot="R180"/>
+                    <pin direction="pas" name="MNT_1" visible="both" length="middle" y="-15.24" x="20.32" rot="R180"/>
+                    <pin direction="pas" name="MNT_2" visible="both" length="middle" y="-17.78" x="20.32" rot="R180"/>
+                </symbol>
+            </symbols>
+            <devicesets>
+                <deviceset prefix="SW" name="C&amp;K_OS102011MA1QN1">
+                    <description>OS Series Miniature Slide Switches</description>
+                    <gates>
+                        <gate name="G$0" symbol="C&amp;K_OS102011MA1QN1_0_0" x="0"/>
+                    </gates>
+                    <devices>
+                        <device name="C&amp;K_OS102011MA1QN1_0_0" package="C&amp;K_OS102011MA1QN1_0">
+                            <connects>
+                                <connect gate="G$0" pad="1" pin="1"/>
+                                <connect gate="G$0" pad="2" pin="2"/>
+                                <connect gate="G$0" pad="3" pin="3"/>
+                                <connect gate="G$0" pad="4" pin="MNT_1"/>
+                                <connect gate="G$0" pad="5" pin="MNT_2"/>
+                            </connects>
+                            <technologies>
+                                <technology>
+                                    <attribute name="mouser_part_number" value="OS102011MA1QN1"/>
+                                    <attribute name="temperature_range_high" value="+70°C"/>
+                                    <attribute name="MPN" value="OS102011MA1QN1"/>
+                                    <attribute name="digikey_description" value="SWITCH SLIDE SPDT 100MA 12V"/>
+                                    <attribute name="digikey_part_number" value="CKN9559-ND"/>
+                                    <attribute name="prefix" value="SW"/>
+                                    <attribute name="datasheet" value="https://www.ckswitches.com/media/1428/os.pdf"/>
+                                    <attribute name="lead_free" value="yes"/>
+                                    <attribute name="voltage" value=""/>
+                                    <attribute name="temperature_range_low" value="-30°C"/>
+                                    <attribute name="rohs" value="yes"/>
+                                    <attribute name="centroid_not_specified" value="No"/>
+                                    <attribute name="MF" value="C&amp;K"/>
+                                    <attribute name="package" value="SW_SLIDE"/>
+                                </technology>
+                            </technologies>
+                        </device>
+                    </devices>
+                </deviceset>
+            </devicesets>
+        </library>
+    </drawing>
+</eagle>
