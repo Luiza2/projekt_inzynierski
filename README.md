@@ -1,4 +1,5 @@
-Praca inzynierska: Prędkościomierz z GPS i układem akwizycji danych.
+Postępy realizacji pracy inżynierskiej.
+Temat: Prędkościomierz z GPS i układem akwizycji danych.
 
 Wykorzystane elementy:
 - STM32 NUCLEO-F446RE
