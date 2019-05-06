@@ -1,0 +1,138 @@
+Src/main.o: ../Src/main.c C:/Users/luiza/F4/probazmenu/Inc/main.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h \
+ C:/Users/luiza/F4/probazmenu/Inc/stm32f4xx_hal_conf.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cm4.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cmInstr.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/cmsis_gcc.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cmFunc.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cmSimd.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sd.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_sdmmc.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h \
+ C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h \
+ C:/Users/luiza/F4/probazmenu/Inc/fatfs.h \
+ C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/ff.h \
+ C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/integer.h \
+ C:/Users/luiza/F4/probazmenu/Inc/ffconf.h \
+ C:/Users/luiza/F4/probazmenu/Inc/main.h \
+ C:/Users/luiza/F4/probazmenu/Inc/bsp_driver_sd.h \
+ C:/Users/luiza/F4/probazmenu/Inc/fatfs_platform.h \
+ C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/ff_gen_drv.h \
+ C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/diskio.h \
+ C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/ff.h \
+ C:/Users/luiza/F4/probazmenu/Inc/sd_diskio.h \
+ c:\users\luiza\f4\probazmenu\inc\oled\ssd1306.h \
+ c:\users\luiza\f4\probazmenu\inc\oled\ssd1306_fonts.h \
+ C:/Users/luiza/F4/probazmenu/Inc/menu.h \
+ C:/Users/luiza/F4/probazmenu/Inc/functions.h \
+ C:/Users/luiza/F4/probazmenu/Inc/gps.h \
+ C:/Users/luiza/F4/probazmenu/Inc/functions.h
+
+C:/Users/luiza/F4/probazmenu/Inc/main.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/stm32f4xx_hal_conf.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f446xx.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cm4.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cmInstr.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/cmsis_gcc.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cmFunc.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Include/core_cmSimd.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_sd.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_sdmmc.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h:
+
+C:/Users/luiza/F4/probazmenu/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_uart.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/fatfs.h:
+
+C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/ff.h:
+
+C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/integer.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/ffconf.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/main.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/bsp_driver_sd.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/fatfs_platform.h:
+
+C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/ff_gen_drv.h:
+
+C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/diskio.h:
+
+C:/Users/luiza/F4/probazmenu/Middlewares/Third_Party/FatFs/src/ff.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/sd_diskio.h:
+
+c:\users\luiza\f4\probazmenu\inc\oled\ssd1306.h:
+
+c:\users\luiza\f4\probazmenu\inc\oled\ssd1306_fonts.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/menu.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/functions.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/gps.h:
+
+C:/Users/luiza/F4/probazmenu/Inc/functions.h:
